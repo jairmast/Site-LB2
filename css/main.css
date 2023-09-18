@@ -1153,6 +1153,7 @@ h1.intro-header::before {
 }
 
 .header-logo a {
+  scale: 1.2;
   display: block;
   margin: 0;
   padding: 0;
