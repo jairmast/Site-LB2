@@ -1454,7 +1454,7 @@ h1.intro-header::before {
 .home-content-left {
   padding: 15rem 0 12rem 40px;
   position: relative;
-  width: 50%;
+  width: 60%;
 }
 
 .home-content-left h3 {
@@ -1468,7 +1468,7 @@ h1.intro-header::before {
 
 .home-content-left h1 {
   font-family: "montserrat-regular", sans-serif;
-  font-size: 5.2rem;
+  font-size: 4.2rem;
   letter-spacing: -.05rem;
   line-height: 1.269;
   color: #ffffff;
